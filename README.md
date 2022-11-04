@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://abideshverma.io)
+
 - 🌱 I’m currently learning **Java Backend and Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abideshverma](https://github.com/Abideshverma)
