@@ -68,10 +68,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abideshverma&show_icons=true&theme=radical" height="250px" width="47%"/>
 </div>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abideshverma&theme=radical&langs_count=8" alt="Top Languages" height="250px" width="47%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abideshverma&theme=gruvbox&hide_border=true&area=true" height="250px" width="47%"/>
-</div>
 
 
 
