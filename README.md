@@ -65,7 +65,7 @@
 <h2 align="center">📈 &nbsp;My GitHub History!</h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abideshverma&theme=radical" alt="GitHub Streak" height="250px" width="47%" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abideshverma-cell&" alt="Abideshverma-cell" /></p>
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abideshverma&show_icons=true&theme=radical" height="250px" width="47%"/>
 </div>
 
