@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abidesh Kumar</h1>
+
 <h3 align="center">Passionate Java Backend Developer</h3>
 </br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="350" />
@@ -10,7 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+- I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work 
+  environment
 - 🌱 I’m currently learning **Java Backend and Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abideshverma](https://github.com/Abideshverma)
@@ -67,6 +69,12 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abideshverma&theme=radical" alt="GitHub Streak" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abideshverma&show_icons=true&theme=radical" height="250px" width="47%"/>
 </div>
+
+ <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abideshverma&theme=default&langs_count=8" alt="Abidesh Kumar" height="230px" width="25%" />
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abideshverma&theme=default" alt="Abideshverma" height="220px" 
+  width="70%"/>
+  <div>
 
 
 
