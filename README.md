@@ -69,12 +69,12 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abideshverma&theme=radical" alt="GitHub Streak" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abideshverma&show_icons=true&theme=radical" height="250px" width="47%"/>
 </div>
-
- <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abideshverma&theme=default&langs_count=8" alt="Abidesh Kumar" height="230px" width="25%" />
-  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abideshverma&theme=default" alt="Abideshverma" height="220px" 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abideshverma&theme=radical&langs_count=8" alt="Abidesh Kumar" height="230px" width="25%" />
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abideshverma&theme=radical" alt="Abideshverma" height="220px" 
   width="70%"/>
   <div>
+
 
 
 
