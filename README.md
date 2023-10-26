@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - Analytical and detail-oriented Web developer with proficiency in HTML, CSS and JavaScript at the frontend and Java, Spring Boot, MySQL at backend with DSA.
-- 
+  
 - 🌱 currently learning **Java Backend and Spring**
 
 - 👨‍💻 All of the projects are available at [https://github.com/Abideshverma](https://github.com/Abideshverma)
