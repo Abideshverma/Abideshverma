@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abidesh Kumar</h1>
+<h1 align="center">Abidesh Kumar</h1>
 
 <h3 align="center">Passionate Java Backend Developer</h3>
 </br>
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work 
-  environment
-- 🌱 I’m currently learning **Java Backend and Spring**
+- Analytical and detail-oriented Web developer with proficiency in HTML, CSS and JavaScript at the frontend and Java, Spring Boot, MySQL at backend with DSA.
+- 
+- 🌱 currently learning **Java Backend and Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abideshverma](https://github.com/Abideshverma)
+- 👨‍💻 All of the projects are available at [https://github.com/Abideshverma](https://github.com/Abideshverma)
 
 - 💬 Ask me about **Spring, Java, Hibernate, Core Java.**
 
